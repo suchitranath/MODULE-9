@@ -1,4 +1,4 @@
-# EX 9 (D) SORTING ALGORITHMS: Insertion Sort Using a Class
+# EX 9 (E) SORTING ALGORITHMS: Insertion Sort Using a Class
 
 This program demonstrates how to implement the **Insertion Sort algorithm** using a Python class. It allows the user to input a list of numbers, sorts them using the insertion sort technique, and displays the sorted list.
 
