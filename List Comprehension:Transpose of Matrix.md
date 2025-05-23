@@ -50,7 +50,8 @@ for row in T:
 ```
 
 ## OUTPUT:
+![image](https://github.com/user-attachments/assets/730f3640-67e6-48a0-a955-3bb7e1f51cb2)
 
 ## RESULT:
-
+Thus, the given program is implemented and executed successfully.
 
